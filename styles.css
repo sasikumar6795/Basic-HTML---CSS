@@ -23,6 +23,10 @@ h1 {
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+hr {
+    margin: 2rem 0rem;
+}
 /** container **/
 .container {
     padding-left: 1rem;

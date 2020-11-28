@@ -3,3 +3,9 @@ Tailwind CSS -- for choosing the color
 undraw -- for choosing the image
 codepen -- onlined editor for html and css
 Google fonts -- for choosing the styling of the text
+
+css  box models --read it 
+rem -- css units read it
+border -- css box models read it
+
+BEM naming convention -- read this
