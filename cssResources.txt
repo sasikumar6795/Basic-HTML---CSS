@@ -1,0 +1,5 @@
+Material design
+Tailwind CSS -- for choosing the color
+undraw -- for choosing the image
+codepen -- onlined editor for html and css
+Google fonts -- for choosing the styling of the text
