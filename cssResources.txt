@@ -9,3 +9,7 @@ rem -- css units read it
 border -- css box models read it
 
 BEM naming convention -- read this
+
+Developer: Toggle Screen cast mode
+
+crl+shift+p == beautify file
